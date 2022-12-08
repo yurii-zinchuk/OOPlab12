@@ -1,8 +1,4 @@
-package org.example.task1;
-
-import lombok.Getter;
-import lombok.Setter;
-import org.checkerframework.checker.guieffect.qual.SafeEffect;
+package org.example.task1.handlers;
 
 public class Handler50 extends Handler{
     @Override

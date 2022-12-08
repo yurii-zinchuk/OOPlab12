@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.task1.handlers;
 
 import lombok.Getter;
 import lombok.Setter;

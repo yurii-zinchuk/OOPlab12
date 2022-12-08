@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.task1.handlers;
 
 public class Handler5 extends Handler{
     @Override
